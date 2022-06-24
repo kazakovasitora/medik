@@ -1,0 +1,2 @@
+# medik
+Meditsina sayti
